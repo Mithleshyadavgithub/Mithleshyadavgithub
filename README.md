@@ -53,7 +53,9 @@
 
 ## 🔗 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/mithlesh-kumar-4ab73929a  
-- 📧 Email: your-email@gmail.com  
+  - 📧 Email: [my2387569@gmail.com](mailto:my2387569@gmail.com)
+- 📸 Instagram: [@mithleshyadav876](https://www.instagram.com/mithleshyadav876)
+
 
 ---
 
