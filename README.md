@@ -1,11 +1,11 @@
 # 🚀 Hi There, I'm Mithlesh Kumar! 👋
 
-### 🎓 B.Tech CSE Student @ BBDU
-### 🌐 Building Modern Web Applications
-### ⚡ Let's Build Something Amazing!
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=5000&color=007ACC&vCenter=true&width=500&height=40&lines=B.Tech+CSE+Student+@+BBDU;Building+Modern+Web+Applications;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+</p>
 
 <p align="left">
-  <a href="https://your-portfolio-link.vercel.app" target="_blank">
+  <a href="https://portfolio-three-green-51.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20VISIT%20MY%20PORTFOLIO-00c853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/mithlesh-kumar-4ab73929a" target="_blank">
@@ -23,7 +23,7 @@
 * 🔭 **Current Focus:** I'm currently working on an **AI Chatbot for Inclusion Awareness** & a **Neighborhood Service Marketplace Platform (GeoServe AI)**.
 * 💡 **Interests:** Algorithm optimization, Data Structures, and responsive UI/UX system design.
 * 🔍 **Seeking:** Opportunities where I can contribute to production-grade repositories and grow within a fast-paced development team.
-* 📍 **Location:** BBDU, Lucknow, India
+* 📍 **Location:** Lucknow, India
 
 ---
 
@@ -60,10 +60,10 @@
 
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **GeoServe AI** | Python, SQL, React | Location-based service discovery system engineered for rapid nearby provider lookup. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://geoserve-ai.vercel.app) |
-| **Amazon Clone** | React, CSS, Node.js | Full-featured e-commerce interface featuring custom interactive navigation patterns. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://amazon-clone-seven-xi.vercel.app) |
-| **Inclusion Chatbot** | Node.js, React | Awareness platform bringing conversational AI to real-world community problem solving. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://inclusion-awareness-chatbot.vercel.app) |
-| **Portfolio Website** | HTML, CSS | Personal developer portfolio highlighting UI layouts and core capabilities. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://your-portfolio-link.vercel.app) |
+| **GeoServe AI** | Python, SQL, React | Location-based service discovery system engineered for rapid nearby provider lookup. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://portfolio-three-green-51.vercel.app/) |
+| **Amazon Clone** | React, CSS, Node.js | Full-featured e-commerce interface featuring custom interactive navigation patterns. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://portfolio-three-green-51.vercel.app/) |
+| **Inclusion Chatbot** | Node.js, React | Awareness platform bringing conversational AI to real-world community problem solving. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://portfolio-three-green-51.vercel.app/) |
+| **Portfolio Website** | HTML, CSS | Personal developer portfolio highlighting UI layouts and core capabilities. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://portfolio-three-green-51.vercel.app/) |
 | **Student Management System** | Java | Back-end project focusing on data structures, object-oriented concepts, and records management. | [💻 Code](https://github.com/Mithleshyadavgithub) |
 | **Basic Web Apps** | JavaScript | Collection of production practice builds focusing on DOM manipulation and functional JS code logic. | [💻 Code](https://github.com/Mithleshyadavgithub) |
 
