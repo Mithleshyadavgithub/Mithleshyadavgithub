@@ -1,7 +1,7 @@
 # 🚀 Hi There, I'm Mithlesh Kumar! 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=5000&color=007ACC&vCenter=true&width=500&height=40&lines=B.Tech+CSE+Student+@+BBDU;Building+Modern+Web+Applications;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=3000&color=007ACC&vCenter=true&width=500&height=40&lines=B.Tech+CSE+Student+@+BBDU;Building+Modern+Web+Applications;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </p>
 
 <p align="left">
@@ -71,11 +71,16 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mithleshyadavgithub&show_icons=true&theme=dark&hide_border=true" alt="Mithlesh's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithleshyadavgithub&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mithleshyadavgithub&show_icons=true&theme=tokyonight&hide_border=true" alt="Mithlesh's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mithleshyadavgithub&theme=tokyonight&hide_border=true" alt="Mithlesh's GitHub Streak" />
+</p>
+
+### 🛠️ Most Used Languages
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithleshyadavgithub&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
 </p>
 
 ---
