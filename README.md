@@ -1,7 +1,7 @@
 # 🚀 Hi There, I'm Mithlesh Kumar! 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=3000&color=007ACC&vCenter=true&width=500&height=40&lines=B.Tech+CSE+Student+@+BBDU;Building+Modern+Web+Applications;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=2000&color=007ACC&vCenter=true&width=500&height=40&lines=B.Tech+CSE+Student+@+BBDU;Building+Modern+Web+Applications;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </p>
 
 <p align="left">
@@ -14,13 +14,13 @@
   <a href="mailto:my2387569@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Mithleshyadavgithub&color=007acc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mithleshkumar87&color=007acc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-* 🔭 **Current Focus:** I'm currently working on an **AI Chatbot for Inclusion Awareness** & a **Neighborhood Service Marketplace Platform (GeoServe AI)**.
+* 🔭 **Current Focus:** I'm currently working on an **AI Chatbot for Inclusion Awareness**.
 * 💡 **Interests:** Algorithm optimization, Data Structures, and responsive UI/UX system design.
 * 🔍 **Seeking:** Opportunities where I can contribute to production-grade repositories and grow within a fast-paced development team.
 * 📍 **Location:** Lucknow, India
@@ -60,12 +60,13 @@
 
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **GeoServe AI** | Python, SQL, React | Location-based service discovery system engineered for rapid nearby provider lookup. | [💻 Code](https://github.com/Mithleshyadavgithub) |
-| **Amazon Clone** | HTML, CSS, JavaScript | Full-featured e-commerce interface featuring customized interactive navigation patterns. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://css-project-sandy.vercel.app) |
-| **Sign-up Form** | HTML, CSS | Modern layout design showcasing clean typography adjustments and interactive input styling features. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://sign-up-form1-five.vercel.app) |
-| **Feedback Form** | HTML, CSS, JavaScript | Interactive secure interface engineered for structured user input capture and confirmation workflows. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://cognifyz-intership.vercel.app) |
-| **Inclusion Chatbot** | Node.js, React | Awareness platform bringing conversational AI to real-world community problem solving. | [💻 Code](https://github.com/Mithleshyadavgithub) |
-| **Portfolio Website** | HTML, CSS | Personal developer portfolio highlighting UI layouts and core capabilities. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://portfolio-three-green-51.vercel.app/) |
+| **Amazon Clone** | HTML, CSS, JavaScript | Full-featured e-commerce interface featuring customized interactive navigation patterns. | [💻 Code](https://github.com/Mithleshkumar87) \| [🌐 Live Demo](https://css-project-sandy.vercel.app) |
+| **Sign-up Form** | HTML, CSS | Modern layout design showcasing clean typography adjustments and interactive input styling features. | [💻 Code](https://github.com/Mithleshkumar87) \| [🌐 Live Demo](https://sign-up-form1-five.vercel.app) |
+| **Feedback Form** | HTML, CSS, JavaScript | Interactive secure interface engineered for structured user input capture and confirmation workflows. | [💻 Code](https://github.com/Mithleshkumar87) \| [🌐 Live Demo](https://cognifyz-intership.vercel.app) |
+| **Inclusion Chatbot** | Node.js, React | Awareness platform bringing conversational AI to real-world community problem solving. | [💻 Code](https://github.com/Mithleshkumar87) |
+| **Portfolio Website** | HTML, CSS | Personal developer portfolio highlighting UI layouts and core capabilities. | [💻 Code](https://github.com/Mithleshkumar87) \| [🌐 Live Demo](https://portfolio-three-green-51.vercel.app/) |
+| **Student Management System** | Java | Back-end project focusing on data structures, object-oriented concepts, and records management. | [💻 Code](https://github.com/Mithleshkumar87) |
+| **Basic Web Apps** | JavaScript | Collection of production practice builds focusing on DOM manipulation and functional JS code logic. | [💻 Code](https://github.com/Mithleshkumar87) |
 
 🔒 *(More projects coming soon 🚀)*
 
@@ -74,13 +75,13 @@
 ## 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mithleshyadavgithub&show_icons=true&theme=tokyonight&hide_border=true" alt="Mithlesh's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mithleshyadavgithub&theme=tokyonight&hide_border=true" alt="Mithlesh's GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mithleshkumar87&show_icons=true&theme=tokyonight&hide_border=true" alt="Mithlesh's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mithleshkumar87&theme=tokyonight&hide_border=true" alt="Mithlesh's GitHub Streak" />
 </p>
 
 ### 🛠️ Most Used Languages
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithleshyadavgithub&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithleshkumar87&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
 </p>
 
 ---
