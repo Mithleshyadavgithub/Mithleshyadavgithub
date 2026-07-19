@@ -1,13 +1,29 @@
-# 🚀 Hi, I'm Mithlesh Kumar
+# 🚀 Hi There, I'm Mithlesh Kumar! 👋
+
+### 🎓 B.Tech CSE Student @ BBDU
+### 🌐 Building Modern Web Applications
+### ⚡ Let's Build Something Amazing!
 
 <p align="left">
   <a href="https://your-portfolio-link.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/⚡%20Visit%20My%20Portfolio-2k?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=0070f3" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20VISIT%20MY%20PORTFOLIO-00c853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://www.linkedin.com/in/mithlesh-kumar-4ab73929a" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:my2387569@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mithleshyadavgithub&color=007acc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-### 👨‍💻 Software Developer | Java & Full Stack Enthusiast
-Passionate about building highly interactive web applications, solving complex algorithmic problems, and architecting robust digital experiences.
+---
+
+## 👨‍💻 About Me
+* 🔭 **Current Focus:** I'm currently working on an **AI Chatbot for Inclusion Awareness** & a **Neighborhood Service Marketplace Platform (GeoServe AI)**.
+* 💡 **Interests:** Algorithm optimization, Data Structures, and responsive UI/UX system design.
+* 🔍 **Seeking:** Opportunities where I can contribute to production-grade repositories and grow within a fast-paced development team.
+* 📍 **Location:** BBDU, Lucknow, India
 
 ---
 
@@ -73,17 +89,9 @@ Passionate about building highly interactive web applications, solving complex a
   <a href="mailto:my2387569@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.instagram.com/mithleshyadav8761" target="_blank">
+  <a href="https://www.instagram.com/mithleshyadav876?igsh=MTl5YXNjcmJjcTNqNg%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
----
-
-## 🎯 About Me
-* 🚀 **Current Focus:** Elevating full-stack applications and diving deeper into complex software engineering architectures.
-* 💡 **Interests:** Algorithm optimization, Data Structures, and responsive UI/UX system design.
-* 🔍 **Seeking:** Opportunities where I can contribute to production-grade repositories and grow within a fast-paced development team.
-* 📍 **Location:** Lucknow, India
 
 ⭐ **Thank you for visiting my profile!**
