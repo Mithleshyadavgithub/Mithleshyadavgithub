@@ -60,12 +60,12 @@
 
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :--- |
-| **GeoServe AI** | Python, SQL, React | Location-based service discovery system engineered for rapid nearby provider lookup. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://portfolio-three-green-51.vercel.app/) |
-| **Amazon Clone** | React, CSS, Node.js | Full-featured e-commerce interface featuring custom interactive navigation patterns. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://portfolio-three-green-51.vercel.app/) |
-| **Inclusion Chatbot** | Node.js, React | Awareness platform bringing conversational AI to real-world community problem solving. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://portfolio-three-green-51.vercel.app/) |
+| **GeoServe AI** | Python, SQL, React | Location-based service discovery system engineered for rapid nearby provider lookup. | [💻 Code](https://github.com/Mithleshyadavgithub) |
+| **Amazon Clone** | HTML, CSS, JavaScript | Full-featured e-commerce interface featuring customized interactive navigation patterns. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://css-project-sandy.vercel.app) |
+| **Sign-up Form** | HTML, CSS | Modern layout design showcasing clean typography adjustments and interactive input styling features. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://sign-up-form1-five.vercel.app) |
+| **Feedback Form** | HTML, CSS, JavaScript | Interactive secure interface engineered for structured user input capture and confirmation workflows. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://cognifyz-intership.vercel.app) |
+| **Inclusion Chatbot** | Node.js, React | Awareness platform bringing conversational AI to real-world community problem solving. | [💻 Code](https://github.com/Mithleshyadavgithub) |
 | **Portfolio Website** | HTML, CSS | Personal developer portfolio highlighting UI layouts and core capabilities. | [💻 Code](https://github.com/Mithleshyadavgithub) \| [🌐 Live Demo](https://portfolio-three-green-51.vercel.app/) |
-| **Student Management System** | Java | Back-end project focusing on data structures, object-oriented concepts, and records management. | [💻 Code](https://github.com/Mithleshyadavgithub) |
-| **Basic Web Apps** | JavaScript | Collection of production practice builds focusing on DOM manipulation and functional JS code logic. | [💻 Code](https://github.com/Mithleshyadavgithub) |
 
 🔒 *(More projects coming soon 🚀)*
 
