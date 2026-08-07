@@ -20,6 +20,7 @@
 ---
 
 ## 🚀 About Me
+-🎓 Education: Pursuing B.Tech in Computer Science and Engineering at BBDU, Lucknow.
 - 🌱 Currently learning **Full Stack Development**
 - 💡 Interested in **Java, Web Development & Problem Solving**
 - 🔍 Looking for **Internship / Entry-Level Software Developer roles**
